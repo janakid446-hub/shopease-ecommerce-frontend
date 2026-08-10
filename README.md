@@ -237,7 +237,7 @@ This allows users to retain their shopping state even after refreshing or reopen
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/janakid446-hub/shopease-ecommerce-frontend
 ```
 
 ### 2️⃣ Navigate to the Project
